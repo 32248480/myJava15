@@ -17,7 +17,7 @@ catch(InterruptedException e){
 }
 if(tmp>0){
  sum=tmp;
- System.out.println("³q¸Ü¶O"+n+"¤¸,¾lÃB¬°"+sum+"¤¸");
+ System.out.println("é€šè©±è²»"+n+"å…ƒ,é¤˜é¡ç‚º"+sum+"å…ƒ");
 }
 }
 }
@@ -33,6 +33,6 @@ public static void main(String args[]){
 }
 }
 
-//³q¸Ü¶O99¤¸,¾lÃB¬°101¤¸
-//³q¸Ü¶O40¤¸,¾lÃB¬°61¤¸
-//³q¸Ü¶O55¤¸,¾lÃB¬°6¤¸
+//é€šè©±è²»99å…ƒ,é¤˜é¡ç‚º101å…ƒ
+//é€šè©±è²»40å…ƒ,é¤˜é¡ç‚º61å…ƒ
+//é€šè©±è²»55å…ƒ,é¤˜é¡ç‚º6å…ƒ

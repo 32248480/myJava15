@@ -33,4 +33,4 @@ public static void main(String args[]){
 //Good bye 5
 
 //(d),
-//·íµ{¦¡¦b°õ¦æ®É,·|¥ý±N"Hello 1"~"Hello 5"¦C¦L§¹²¦¤§«á,¦A§â"Good bye 1"~"Goodbye 5"¦L¥X¡C­n¨Ï¥Î¦h°õ¦æºü®É,»Ý­n¥Îstart() method¨Ó¶i¦æ±Ò°Ê,¥Ñstart() method¦b±Æµ{¾¹¤¤µn¿ý¸Ó°õ¦æºü,·í³o­Ó°õ¦æºü¶}©l°õ¦æ®É,run() method¦ÛµM´N·|³Q©I¥s¡C¦p³oÃDª½±µ©I¥srun() method,¥u¬O¦bµ{¦¡¤¤±Nrun() method°õ¦æ,¨Ã¤£·|±Ò°Ê¦h°õ¦æºü¡C
+//ç•¶ç¨‹å¼åœ¨åŸ·è¡Œæ™‚,æœƒå…ˆå°‡"Hello 1"~"Hello 5"åˆ—å°å®Œç•¢ä¹‹å¾Œ,å†æŠŠ"Good bye 1"~"Goodbye 5"å°å‡ºã€‚è¦ä½¿ç”¨å¤šåŸ·è¡Œç·’æ™‚,éœ€è¦ç”¨start() methodä¾†é€²è¡Œå•Ÿå‹•,ç”±start() methodåœ¨æŽ’ç¨‹å™¨ä¸­ç™»éŒ„è©²åŸ·è¡Œç·’,ç•¶é€™å€‹åŸ·è¡Œç·’é–‹å§‹åŸ·è¡Œæ™‚,run() methodè‡ªç„¶å°±æœƒè¢«å‘¼å«ã€‚å¦‚é€™é¡Œç›´æŽ¥å‘¼å«run() method,åªæ˜¯åœ¨ç¨‹å¼ä¸­å°‡run() methodåŸ·è¡Œ,ä¸¦ä¸æœƒå•Ÿå‹•å¤šåŸ·è¡Œç·’ã€‚
